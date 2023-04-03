@@ -1,0 +1,34 @@
+{
+  "user1": {
+    "firstName": "Moises",
+    "lastName": "Cardenas",
+    "email": "moises@cardenas.com",
+    "favoriteCompany": "Google",
+    "birthday": "1996-08-28",
+    "major": "Software Development",
+    "graduation": "2023-12-21",
+    "favoriteSong": "Firestone"
+  },
+
+  "user2": {
+    "firstName": "Jaime",
+    "lastName": "Corral",
+    "email": "jaime@corral.com",
+    "favoriteCompany": "Facebook",
+    "birthday": "2001-05-28",
+    "major": "Business Management",
+    "graduation": "2023-06-21",
+    "favoriteSong": "Heat Waves"
+  },
+
+  "user3": {
+    "firstName": "Olivia",
+    "lastName": "Rodrigo",
+    "email": "olivia@rodrigo.com",
+    "favoriteCoompany": "Tesla",
+    "birthday": "2002-02-20",
+    "major": "Architecture",
+    "graduation": "2023-08-01",
+    "favoriteSong": "Something just like this"
+  }
+}
